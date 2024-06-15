@@ -13,6 +13,3 @@ jobs:
 
       - name: Run a one-line script
         run: echo Hello from dotnet-buils.yml
-
-      - name: Sponsor Labels
-        uses: JasonEtco/is-sponsor-label-action@v2.0.0
